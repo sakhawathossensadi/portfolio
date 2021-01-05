@@ -1,0 +1,71 @@
+#nav-bar
+{
+    height: 1px;
+}
+.link
+{
+    text-decoration: none;
+    float: right;
+    margin: 30px 30px;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 80px;
+}
+.half-width
+{
+    width: 35%;
+    margin-left: 4%;
+    padding-left: 4%;
+    float: left;
+}
+.half-width img
+{
+    width: 100%;
+}
+h1
+{
+    color: red;
+}
+.project-box-area
+{
+    box-shadow: 10px 5px 40px gray;
+    border-radius: 15px;
+    height: 90%;
+    background-color: white;
+}
+.project-box-area img
+{
+    width: 90%;
+    margin: 10px 17px;
+}
+#box-width1
+{
+    width: 25%;
+    margin-left: 90px;
+    float: left;
+}
+#box-width2
+{
+    width: 25%;
+    margin-left: 90px;
+    float: left;
+}
+#box-width3
+{
+    width: 25%;
+    margin-left: 90px;
+    float: left;
+}
+.footer-box-area
+{
+    box-shadow: 10px 5px 40px gray;
+    border-radius: 15px;
+    height: 50%;
+    background-color: white;
+}
+.footer-box-area img
+{
+    height: 70%;
+}
